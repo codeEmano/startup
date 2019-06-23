@@ -1,0 +1,6 @@
+.dottedUnderline
+{
+	font-family: cursive;
+	border-bottom: 1px dotted rgb(40,40,200);
+	color: rgb(40,40,200);
+}
