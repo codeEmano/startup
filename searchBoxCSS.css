@@ -1,6 +1,19 @@
+*{
+	box-sizing: border-box;
+}
 .text_field
 {
+	width: 14%;
+	height: 14%;
 border: rgb(20,20,160) solid;
-border-bottom: rgb(20,20,160) solid;
-margin: 0px;
+border-bottom: 2px rgb(20,20,160) solid;
+position: relative;
+}
+
+.icon{
+	background-color: red;
+	left: 0px;
+	top: 0px;
+	padding: 0px;
+	margin: 0px; 
 }
