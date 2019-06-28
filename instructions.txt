@@ -2,3 +2,8 @@
 1- git add .
 2) git commit -m "Message"
 3) git push origin
+ For new Repository
+1) git init
+2) git remote add origin<link to repository>
+3) git push --set-upstream origin master
+Normal commits
